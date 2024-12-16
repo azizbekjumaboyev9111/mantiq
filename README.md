@@ -1,0 +1,2 @@
+# mantiq
+mantiqiy test
